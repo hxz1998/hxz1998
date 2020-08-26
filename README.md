@@ -1,4 +1,8 @@
-### Hi there 👋
+### 
+<center>永远不会对“不错”感到心满意足<br>
+永远寻求每一个机会来拓展自己的视野，探索未知事物<br>
+  对知识的渴求永远不会熄灭<br>
+😊</center>
 
 <!--
 **hxz1998/hxz1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
